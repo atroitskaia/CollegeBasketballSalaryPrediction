@@ -1,4 +1,4 @@
-# CollegeBasketball-Sallaries
+# CollegeBasketball-Salaries
 BrainStation capstone project. Salary prediction for college basketball players if they get drafted into NBA
 
 1. Data collection
