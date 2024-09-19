@@ -1,5 +1,5 @@
 
-Colege Basketball Salary Prediction
+College Basketball Salary Prediction
 =========================
 ### Executive Summary
 The primary area of this project is sports analytics. The project aims to predict the salaries of college basketball players drafted into the NBA based on their performance statistics and historical data from current and former pro players. It addresses the challenge of evaluating and translating college performance to professional success, aiding NBA teams in making informed draft and salary decisions. By integrating comprehensive datasets and leveraging machine learning, the project will provide valuable insights for player evaluation, financial planning, and targeted training programs, benefiting NBA teams, college programs, and players.
