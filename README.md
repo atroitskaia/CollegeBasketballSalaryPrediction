@@ -21,12 +21,12 @@ Machine learning can also revolutionize player evaluation and salary prediction 
 
 #### Dataset
 Cleaned and encoded data set csv file is available in the project folder
-
-# atroitskaia/CollegeBasketballSalaryPrediction/backetball_cleaned_09_26_24.csv
+- atroitskaia/CollegeBasketballSalaryPrediction/backetball_cleaned_09_26_24.csv
 
 ### Credits & References
-Data Collection:
-# https://www.nba.com/stats/players/advanced
-# https://hoopshype.com/salaries/players/
-# https://www.sports-reference.com/cbb/
+
+#### Data Collection:
+- https://www.nba.com/stats/players/advanced
+- https://hoopshype.com/salaries/players/
+- https://www.sports-reference.com/cbb/
 
